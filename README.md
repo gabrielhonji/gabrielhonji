@@ -12,3 +12,7 @@ Gosto de desenvolver ferramentas que resolvem problemas do dia a dia. Por aqui, 
   Projeto de jogo de perguntas inspirado no Jogo do Milhão, com fantasia medieval e pixel art.
 - **[WhatsApp Date Recovery](https://github.com/gabrielhonji/whatsapp-date-recovery)** · Python e ADB<br>
   Ajuda a recuperar a ordem das fotos do WhatsApp no Android usando as datas das mensagens. Roda localmente e oferece prévia e rollback.
+
+## Também vale ver
+
+**HONJI — XII de Março** é uma secretaria digital em Python para importar planilhas e emitir certificados em PDF. [Veja a release e o download](https://github.com/gabrielhonji/honji-xii-de-marco/releases/tag/v1.0.0).
